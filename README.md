@@ -18,7 +18,7 @@ If you like to see the project on your local env
 cd Wine-Festival-Schedule
 http-server
 ```
-or you can go this website adress 
+or you can go this website adress https://senayyakut.github.io/Wine-Festival-Schedule/
 
 
 ## Contributing
