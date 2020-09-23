@@ -72,3 +72,9 @@ footer h3 {
 .left {
     width: 150px;
 }
+
+#Author {
+    text-align: right;
+    margin: 10px;
+    font-family: 'Dancing Script', cursive;
+}
