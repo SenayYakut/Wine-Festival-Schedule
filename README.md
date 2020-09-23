@@ -6,16 +6,20 @@ The Aguillar Family is hosting their annual wine festival and they have asked yo
 
 ## Installation
 
+If you like to install the project locally
 ```bash
+git clone https://github.com/SenayYakut/Wine-Festival-Schedule.git 
 
 ```
 
 ## Usage
-
+If you like to see the project on your local env
 ```HTML5
-
-
+cd Wine-Festival-Schedule
+http-server
 ```
+or you can go this website adress 
+
 
 ## Contributing
 Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
