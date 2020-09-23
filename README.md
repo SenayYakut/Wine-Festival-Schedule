@@ -1,6 +1,6 @@
 # Wine Festival Schedule
 
-Wine Festival Schedule is a HTML5 project.
+Wine Festival Schedule is a HTML5, CSS3 project.
 
 The Aguillar Family is hosting their annual wine festival and they have asked you to build a web page for the event schedule! Use your knowledge of HTML to display a table to the attendees.
 
